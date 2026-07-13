@@ -83,5 +83,5 @@ A web application for creating personalized wedding websites.
 
 I'm always interested in connecting with people who are passionate about software development, AI, and industrial automation.
 
-* GitHub: **github.com/<your-github-username>**
-* LinkedIn *(optional)*
+* GitHub: **github.com/BalzerNick
+* LinkedIn **https://www.linkedin.com/in/nick-balzer-59a9a01b7/
